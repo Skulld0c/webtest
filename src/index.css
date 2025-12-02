@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper to ensure min height background shows well */
+html, body, #root {
+  height: 100%;
+}
