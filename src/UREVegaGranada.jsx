@@ -1,3 +1,10 @@
+export default function UREVegaGranada() {
+  return (
+    <div>
+      <h1>Hola URE Vega Granada</h1>
+    </div>
+  );
+}
 import React, { useState, useEffect } from 'react';
 import { Upload, LogOut, Tag, Mail, Phone, MapPin, User, Lock } from 'lucide-react';
 
